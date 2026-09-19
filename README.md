@@ -15,4 +15,4 @@ The program provides a menu-driven interface where the user can choose different
 • Priority
 • Status
 # Technologies Used
--Python
+- Python
